@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Maurilio!
 
 - 🔭 Hoje trabalho como desenvolvedor full stack
-- 🌱 Estudando ReactJS
+- 🌱 Estudando React JS
 
 <div>
   <a href="https://github.com/maurilioz1">
